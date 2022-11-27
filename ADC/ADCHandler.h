@@ -1,4 +1,4 @@
-/* ADCHandler.cpp
+/* ADCHandler.h
 
     ADC Routines for ATMega 2560
 	
